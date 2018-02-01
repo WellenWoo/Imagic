@@ -1,6 +1,6 @@
 # **Imagic**
 
-0. 基于OpenCv对图像进行各种处理、检测及识别。
+0. 基于OpenCv对图像进行各种处理、检测及识别。[软件地址](https://pan.baidu.com/s/1o9NiC9W)
 
 1. Usage 使用:
 
