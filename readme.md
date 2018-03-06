@@ -1,6 +1,6 @@
 # **Imagic**
 
-0. 基于OpenCv对图像进行各种处理、检测及识别。[软件下载地址](https://pan.baidu.com/s/1eTaGoLG)
+0. 基于OpenCv对图像进行各种处理、检测及识别。[软件下载地址](https://pan.baidu.com/s/1Vd1C1mVbrPSBfJP4zy_ETQ)
 
 1. Usage 使用:
 
@@ -42,6 +42,16 @@ images match：图像匹配。选择两幅图像，图像A为图像B的局部区
 将在图像B中标注出图像A的位置及绘制对应点的连线。
 
 images compress：图像压缩。基于KMeans算法，该压缩是有损且不可逆的压缩。
+
+Stylized模块：风格化
+
+pencil:图像铅笔画。
+
+stylization:风格化。
+
+detailEnhance:细节增强。
+
+Edge Preserving Filter：保边去噪。
 
 Capture模块：摄像
 
@@ -131,6 +141,7 @@ AddWeight button:对两幅图片进行加权处理。
  增加透视变换功能。二值化、自适应二值化。
  腐蚀图像。膨胀图像。
  0.5.2：猫脸识别。增加软件更新链接。
+ 0.5.3:增加各种风格化。
 
 ## To do:
 -----------
